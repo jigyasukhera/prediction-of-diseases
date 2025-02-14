@@ -43,7 +43,7 @@ streamlit run app.py
 4️⃣ The model will display whether the user is at risk for any of the diseases.  
 
 ## 📚 Dataset
-The model is trained on publicly available medical datasets from **Kaggle & UCI Machine Learning Repository**.
+The model is trained on publicly available medical datasets from **Kaggle**.
 
 ## 📌 Future Enhancements
 🔹 Add more diseases for prediction.  
@@ -52,12 +52,9 @@ The model is trained on publicly available medical datasets from **Kaggle & UCI 
 🔹 Integrate **real-time patient monitoring** via IoT devices.  
 
 ## 🏆 Contributors
-👨‍💻 **Your Name** - Developer & ML Engineer  
-
-## 📜 License
-This project is licensed under the **MIT License** – feel free to modify and use it!
+👨‍💻 **Jigyasu Khera** - Developer & ML Engineer  
 
 ## ⭐ Acknowledgments
-Special thanks to **Scikit-learn, Streamlit, and Kaggle** for providing open-source tools and datasets.
+Special thanks to **Edunet Foundation** for providing valuable knowledge and lessons during the development of this project.
 
 💡 If you found this useful, **don’t forget to give it a star ⭐ on GitHub!** 🚀
