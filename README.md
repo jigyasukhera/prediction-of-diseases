@@ -23,7 +23,7 @@ The **Disease Prediction System** is a machine learning-based web application th
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/jigyasukhera/prediction-of-diseases.git
-cd disease-prediction
+cd prediction-of-diseases
 ```
 
 ### 2️⃣ Install Dependencies
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run the Application
 ```bash
-streamlit run app.py
+streamlit run web.py
 ```
 
 ## 🎯 Usage
