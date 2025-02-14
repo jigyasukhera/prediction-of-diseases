@@ -17,7 +17,6 @@ The **Disease Prediction System** is a machine learning-based web application th
   - NumPy & Pandas – Data Processing 📊
   - Scikit-learn – Machine Learning 🤖
   - Streamlit – Web Application 🌐
-  - Matplotlib & Seaborn – Data Visualization 📈
 - **Deployment:** Heroku / PythonAnywhere / Local Server ☁️
 
 ## 🔧 Installation & Setup
